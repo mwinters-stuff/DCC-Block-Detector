@@ -8,3 +8,6 @@ on the signal line.
 
 # Schematic
 ![schematic](schematic.png)
+
+# Render
+![render](block-detector-render.png)

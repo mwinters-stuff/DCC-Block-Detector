@@ -1,4 +1,5 @@
 *.lck
 fp-info-cache
 fp-lib-table
-block-detector/block-detector-backups/**
+**/*-bak
+block-detector-backups/**
